@@ -1,2 +1,14 @@
-# Mconnect-Country-Specific-Flat-Rate-Shipping-Extension-for-Magento-2
-Country-Specific Flat Rate Shipping Extension for Magento 2 by Mconnect helps you to set up the flat rate shipping for a specific country for all or specific products of your store to charge fixed shipping rates. Also, you can restrict countries where you do not want to operate or ship products. 
+<p>Want to provide a great deal of shopping experience to your customers through the shipping methods? The shipping charges you may apply on order may vary depending upon the location of the delivery and carrier you choose. And shipping charges for selling outside of your base country may cost more than you think. Because you may have to pay higher custom duties that you have not considered before. Also, the shipping calculators may charge inaccurately sometimes during the checkout process when there many numbers of products. Therefore, the Magento store owners need a solution that charges customers based on the per order, per product, or per country, which is not possible with default Magento shipping methods.</p>
+<p><a href="https://www.mconnectmedia.com/flat-rate-shipping-per-country-magento-2.html"><strong>Mconnect Country Specific Flat Rate Shipping Extension for Magento 2</strong></a> solves your problem to charge for shipping to the customer based on per order, per product, or per country. This extension omits the inefficient shipping charges calculation during checkout that does not provide clarity to your customers. That&rsquo;s why the use of flat rate shipping is a more prominent option that charges a fixed amount without depending upon any dimension, distance, or calculations. If your eCommerce store deals with international orders, even then you can set up effective shipping costs for selected countries or restrict some specific countries to order from your store. The extension also provides an option to set standard shipping rates globally for all the products in your store. The admin can also set up a threshold amount for allowing the customer to get free shipping. Option to restrict a product&rsquo;s sale for a specific country and does not let customers from that country proceed further.</p>
+<p><strong>Features for Mconnect Country Specific Flat Rate Shipping Extension for Magento 2</strong></p>
+<ul>
+<li>With the help of the extension, you can set individual shipping charges per order, per product or per country.</li>
+<li>Option to set costs for each country if you need to.</li>
+<li>Option to restrict as well as allow countries to shop from you.</li>
+<li>The extension allows you to set a custom title for the shipping per country to show at the frontend.</li>
+<li>Admin can set standard shipping costs on products if needed.</li>
+<li>Also, the extension has the option to add shipping cost for multiple items in the cart.</li>
+<li>Option to set up a threshold value to allow free shipping.</li>
+<li>A popup will appear when the product is restricted in a certain region or shipping is not available.</li>
+</ul>
+<p>For more such <a href="https://www.mconnectmedia.com/magento-2-extensions"><strong>Magento 2 Extensions</strong></a> visit <a href="https://www.mconnectmedia.com"><strong>Mconnectmedia.com</strong></a></p>
